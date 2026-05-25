@@ -1,2 +1,0 @@
-src/App.jsx
-src/index.css
