@@ -1,1 +1,0 @@
-# KingdomShift Marketplace Platform
